@@ -1,6 +1,6 @@
 # Project Name
 
-This is a demo project to showcase how to use Git and GitHub.
+This is a demo project to showcase how to use VirtaulBox and Vagrant.
 
 ## Installation
 
